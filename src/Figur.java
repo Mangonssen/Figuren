@@ -1,3 +1,5 @@
+import java.awt.Graphics;
+
 abstract class Figur {
 
     protected static final int factor = (int) (Math.random() * ((16-7) + 1)) + 7;
